@@ -1,14 +1,18 @@
 # Object-Detection-on-Images
 Implementation of Object Detector for Images
 
-### Input1 (Image)
+## Demo 1
+
+### Input (Image)
 ![input1](images/5.jpg)
 
-### Output1 (Image)
+### Output (Image)
 ![output1](demo1.png)
 
-### Input2 (Image)
+## Demo 2
+
+### Input (Image)
 ![input2](images/3.jpg)
 
-### Output2 (Image)
+### Output (Image)
 ![output2](demo2.png)
