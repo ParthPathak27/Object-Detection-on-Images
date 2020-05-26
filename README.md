@@ -8,7 +8,7 @@ Implementation of Object Detector for Images
 ![output1](demo1.png)
 
 ### Input2 (Image)
-![input1](images/3.png)
+![input2](images/3.jpg)
 
 ### Output2 (Image)
 ![output2](demo2.png)
